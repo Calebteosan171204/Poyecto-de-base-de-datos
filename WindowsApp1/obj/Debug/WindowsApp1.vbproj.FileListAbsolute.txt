@@ -1,0 +1,15 @@
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.IPAB.resources
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\bin\Debug\baseProyecto.mdb
+C:\Users\danye\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.IPAN2.resources
